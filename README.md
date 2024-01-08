@@ -2,7 +2,7 @@
 - 👀 I’m interested in making music and software development.
 - 🌱 I’m currently learning to be a good father.
 - 💞️ (I’m looking to collaborate on) (nope, strike that out at the moment)
-- 📫 How to reach me: Twitter, Insta, Facebook. At the moment I won't post my LinkedIn profile.
+- 📫 How to reach me: Insta, Facebook and maybe Discord. At the moment I won't post my LinkedIn profile.
 - This account here is meant for personal use, not as a professional portfolio.
 
 <!---
