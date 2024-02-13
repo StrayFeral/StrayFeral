@@ -1,6 +1,6 @@
 - 👋 Hi, I’m StrayF
 - 🌱 I’m interested in software development and making music.
-- This account here is meant for personal use, not as a professional portfolio.
+- ⛔ This account is meant for personal use, not as a professional portfolio.
 
 <!---
 StrayFeral/StrayFeral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
